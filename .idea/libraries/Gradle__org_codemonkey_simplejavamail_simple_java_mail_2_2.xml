@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codemonkey.simplejavamail:simple-java-mail:2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../forJava/gradle-2.4/caches/modules-2/files-2.1/org.codemonkey.simplejavamail/simple-java-mail/2.2/2c47c555bc6d7a0e36306917a972ebab7f119332/simple-java-mail-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../forJava/gradle-2.4/caches/modules-2/files-2.1/org.codemonkey.simplejavamail/simple-java-mail/2.2/6ee3bad2f5a2f405da9bd46ebfccd476f0d3e8f3/simple-java-mail-2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
